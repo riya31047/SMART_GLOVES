@@ -1,1 +1,2 @@
 # SMART GLOVES
+An Internet of Things for wearable devices based project. This project mainly aims to make the post-stroke hand rehabilitation methods for the patients more feasible , cost-effective, motivating and interesting. A smart glove is created using textile sensors which is a cost-effective, light-weight and comfortable alternative to the traditional hand rehabilitation methods for stroke - affected people.
